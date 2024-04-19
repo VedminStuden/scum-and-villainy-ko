@@ -1,0 +1,52 @@
+{
+  "id":"scum-and-villainy-ko",
+  "title":"Translation: Korean [Scum and Villainy]",
+  "description":"Scum and Villainy 시스템의 한국어 번역.",
+  
+  "version":"0.5.1",  
+  "authors":[
+    {
+      "name":"Mestre Digital",
+      "url":"https://youtube.com/mestredigital"
+    }
+  ],
+  
+  "compatibility":{
+    "minimum":11,
+    "verified":"11"
+  },
+  
+  "esmodules":[
+    "babele-register.js"
+  ],
+  
+  "languages":[
+    {
+      "lang":"ko",
+      "path":"ko.json"
+    }
+  ],
+  
+  "relationships":{
+    "requires":[
+      {
+        "id":"babele",
+        "type":"module",
+        "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+    ],
+    "systems":[
+      {
+        "id":"scum-and-villainy"
+      }
+    ]
+  },
+  
+  "styles":[
+    "./styles/style.css"
+  ],
+  
+  "url":"https://github.com/brunocalado/scum-and-villainy-pt-br",
+  "manifest":"https://raw.githubusercontent.com/brunocalado/scum-and-villainy-pt-br/main/module.json",
+  "download":"https://codeload.github.com/brunocalado/scum-and-villainy-pt-br/zip/main"
+}
