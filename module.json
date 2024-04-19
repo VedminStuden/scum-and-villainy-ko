@@ -3,7 +3,7 @@
   "title":"Translation: Korean [Scum and Villainy]",
   "description":"Scum and Villainy 시스템의 한국어 번역.",
   
-  "version":"0.5.1",  
+  "version":"0.0.1",  
   "authors":[
     {
       "name":"Mestre Digital",
@@ -48,5 +48,5 @@
   
   "url":"https://github.com/brunocalado/scum-and-villainy-pt-br",
   "manifest":"https://raw.githubusercontent.com/brunocalado/scum-and-villainy-pt-br/main/module.json",
-  "download":"https://codeload.github.com/brunocalado/scum-and-villainy-pt-br/zip/main"
+  "download":"https://github.com/VedminStuden/scum-and-villainy-ko/archive/refs/heads/main.zip"
 }
